@@ -4,3 +4,5 @@ def hello():
 
 def hello_2():
     print('Огромный привет всем!')
+
+yes="no"
